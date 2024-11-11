@@ -1,6 +1,6 @@
-# ToDo-List
+# MySimple-Note
 
-**ToDo-List** is a robust personal notes management application meticulously developed using Flutter and Dart. This application caters to the diverse needs of users who seek an efficient and organized way to manage their notes. Whether for personal, educational, or professional use, **ToDo-List** stands out as a versatile and reliable tool, enhancing productivity and organization for its users.
+**MySimple-Note** is a robust personal notes management application meticulously developed using Flutter and Dart. This application caters to the diverse needs of users who seek an efficient and organized way to manage their notes. Whether for personal, educational, or professional use, **MySimple-Note** stands out as a versatile and reliable tool, enhancing productivity and organization for its users.
 
 ## Features
 
@@ -27,15 +27,15 @@
 
 1. **Clone the Repository:**
 
-   Replace `YourUsername` with your GitHub username and run the following command:
+   Replace `ThanuSha` with your GitHub username and run the following command:
 
    ```bash
-   git clone git@github.com:YourUsername/To-Do-List-Notes-App.git
+   git clone git@github.com:ThanuSha/My-Simple-Note-App.git
 
 2. **Navigate to the Project Directory:**
 
    ```bash
-   cd To-Do-List-Notes-App
+   cd My-Simple-Note-App
    
 3. **Install Dependencies:**
 
